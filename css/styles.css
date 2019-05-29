@@ -1,0 +1,29 @@
+p.author {
+  width: 75%;
+  font-weight: bold;
+}
+
+.intro {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+.within {
+  color: green;
+}
+
+.dynamite {
+  color: blue;
+  font-style: oblique;
+}
+
+img.intro {
+   width: 33%;
+}
+
+.authorly {
+  color: purple;
+  font-style: bold;
+  width: 150%;
+}
